@@ -6,7 +6,7 @@ var movies = [
 		desc: "Story about magic and how the evil is always defeated by the good",
 		poster: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
 		mainCharacter: "Harry Potter",
-		director: "	Chris Columbus"
+		director: "Chris Columbus"
 	},
 	{
 		id: 2,
